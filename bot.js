@@ -258,6 +258,7 @@ const sendToWebhook = async (message, isUpdate = false) => {
 };
 
 
+client.setMaxListeners(25); // Verhoog naar 20 (of meer indien nodig)
 
 
 
