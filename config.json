@@ -1,13 +1,73 @@
 {
-  "agentName": "AGENT_NAME",
-  "token": "DISCORD_TOKEN",
-  "systemHook": "SYSTEM_WEBHOOK_URL",
-  "eventHook": "EVENT_WEBHOOK_URL",
-  "relay-language": "en",
-  "channelMappings": [
-    {
-      "channelId": "CHANNEL_ID",
-      "webhookUrl": "WEBHOOK_URL"
-    }
-  ]
+    "agentName": "AGENT_NAME",
+    "token": "xxxxxxxxx",
+    "systemHook": "https://discord.com/api/webhooks/1338543518330912932/rI639N2gOk_pK6CBnL0PzPhT4Xo8J1EbEU4uJMJOTtjLrTFTRsIv7xq8Za2llKc0urwy",
+    "eventHook": "https://discord.com/api/webhooks/1338543729111466104/ygA6fbhO5H8x_z85xSaLL_SUeMJF3ziehjZqQo1nvCye_hAN5IJPZpUxluSu9KRfkA_h",
+    "relay_language": "en",
+    "channelMappings": [
+        {
+            "channelId": "1331992117400305715",
+            "webhookUrl": "https://discord.com/api/webhooks/1338526982652170383/BdUXIJ_8VX2ahkG5Ni6DX2QvaDo-U0Qlo-RNZX7b8tnSLF_GsERWDg1CY-VHH6VfSHZA"
+        },
+        {
+            "channelId": "1334034829888458875",
+            "webhookUrl": "https://discord.com/api/webhooks/1338526982652170383/BdUXIJ_8VX2ahkG5Ni6DX2QvaDo-U0Qlo-RNZX7b8tnSLF_GsERWDg1CY-VHH6VfSHZA"
+        },
+        {
+            "channelId": "1313442238226763847",
+            "webhookUrl": "https://discord.com/api/webhooks/1338526982652170383/BdUXIJ_8VX2ahkG5Ni6DX2QvaDo-U0Qlo-RNZX7b8tnSLF_GsERWDg1CY-VHH6VfSHZA"
+        },
+        {
+            "channelId": "1310561298500812821",
+            "webhookUrl": "https://discord.com/api/webhooks/1338526982652170383/BdUXIJ_8VX2ahkG5Ni6DX2QvaDo-U0Qlo-RNZX7b8tnSLF_GsERWDg1CY-VHH6VfSHZA"
+        },
+        {
+            "channelId": "1331395911330566185",
+            "webhookUrl": "https://discord.com/api/webhooks/1338526982652170383/BdUXIJ_8VX2ahkG5Ni6DX2QvaDo-U0Qlo-RNZX7b8tnSLF_GsERWDg1CY-VHH6VfSHZA"
+        },
+        {
+            "channelId": "1329066649893994506",
+            "webhookUrl": "https://discord.com/api/webhooks/1338526982652170383/BdUXIJ_8VX2ahkG5Ni6DX2QvaDo-U0Qlo-RNZX7b8tnSLF_GsERWDg1CY-VHH6VfSHZA"
+        },
+        {
+            "channelId": "1314272057810489455",
+            "webhookUrl": "https://discord.com/api/webhooks/1338526982652170383/BdUXIJ_8VX2ahkG5Ni6DX2QvaDo-U0Qlo-RNZX7b8tnSLF_GsERWDg1CY-VHH6VfSHZA"
+        },
+        {
+            "channelId": "1330391862380593252",
+            "webhookUrl": "https://discord.com/api/webhooks/1338526982652170383/BdUXIJ_8VX2ahkG5Ni6DX2QvaDo-U0Qlo-RNZX7b8tnSLF_GsERWDg1CY-VHH6VfSHZA"
+        },
+        {
+            "channelId": "1334529292293505078",
+            "webhookUrl": "https://discord.com/api/webhooks/1338526982652170383/BdUXIJ_8VX2ahkG5Ni6DX2QvaDo-U0Qlo-RNZX7b8tnSLF_GsERWDg1CY-VHH6VfSHZA"
+        },
+        {
+            "channelId": "1310436955338834001",
+            "webhookUrl": "https://discord.com/api/webhooks/1338526982652170383/BdUXIJ_8VX2ahkG5Ni6DX2QvaDo-U0Qlo-RNZX7b8tnSLF_GsERWDg1CY-VHH6VfSHZA"
+        },
+        {
+            "channelId": "1320656485575036972",
+            "webhookUrl": "https://discord.com/api/webhooks/1338526982652170383/BdUXIJ_8VX2ahkG5Ni6DX2QvaDo-U0Qlo-RNZX7b8tnSLF_GsERWDg1CY-VHH6VfSHZA"
+        },
+        {
+            "channelId": "1295221824128548884",
+            "webhookUrl": "https://discord.com/api/webhooks/1338526982652170383/BdUXIJ_8VX2ahkG5Ni6DX2QvaDo-U0Qlo-RNZX7b8tnSLF_GsERWDg1CY-VHH6VfSHZA"
+        },
+        {
+            "channelId": "1316361571718402088",
+            "webhookUrl": "https://discord.com/api/webhooks/1338526982652170383/BdUXIJ_8VX2ahkG5Ni6DX2QvaDo-U0Qlo-RNZX7b8tnSLF_GsERWDg1CY-VHH6VfSHZA"
+        },
+        {
+            "channelId": "1317416242667065364",
+            "webhookUrl": "https://discord.com/api/webhooks/1338526982652170383/BdUXIJ_8VX2ahkG5Ni6DX2QvaDo-U0Qlo-RNZX7b8tnSLF_GsERWDg1CY-VHH6VfSHZA"
+        },
+        {
+            "channelId": "1315541512133808190",
+            "webhookUrl": "https://discord.com/api/webhooks/1338526982652170383/BdUXIJ_8VX2ahkG5Ni6DX2QvaDo-U0Qlo-RNZX7b8tnSLF_GsERWDg1CY-VHH6VfSHZA"
+        },
+        {
+            "channelId": "1231784606232088587",
+            "webhookUrl": "https://discord.com/api/webhooks/1338526982652170383/BdUXIJ_8VX2ahkG5Ni6DX2QvaDo-U0Qlo-RNZX7b8tnSLF_GsERWDg1CY-VHH6VfSHZA"
+        }
+    ]
 }
